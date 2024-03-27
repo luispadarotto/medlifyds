@@ -1,4 +1,23 @@
 aside.left-pane {
-    background: #f8fafc!important;
-    border: 0!important;
+    background: #f8fafc;
+    border: 0;
+}
+
+.page-tabs .accent-background, .Tabstyled__SelectedBorderStyled-hYQIoK {
+  height: 4px!important;
+  background: #1B73E8;
+}
+
+button.Buttonstyled__ButtonStyled-bBAZTI.CookieBannerstyled__ButtonStyled-zFyNE {
+  background-color:#1B73E8;
+  color: #fff;
+}
+
+button.Buttonstyled__ButtonStyled-bBAZTI.CookieBannerstyled__OutlineButtonStyled-jZNWqk {
+  border-color:#1B73E8;
+  color: #1B73E8;
+}
+
+a.block.created, footer.full-width {
+  display: none;
 }
